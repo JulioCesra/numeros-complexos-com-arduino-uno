@@ -40,7 +40,8 @@ python .\numeros-complexos-arduino.py
 
 
 | **Gráfico (Exemplo 2)** | ![](Imagens/demonstracao_2.jpeg) |
-| **Vídeo do Projeto** | ![](**https://github.com/user-attachments/assets/f151a170-7052-40a4-a260-038ab77acf01**) ![](**https://github.com/user-attachments/assets/f048c220-2285-411d-987e-a0306de83663**) ![](**https://github.com/user-attachments/assets/53f9ad16-4159-451f-a896-90aa698a06e0**) |
+
+| **Vídeo do Projeto** | ![Video 1](videos/video_1.mp4) ![Video 2](videos/video_2.mp4) ![Video 3](videos/video_3.mp4) |
 
 
 ## 🧑‍💻 Autor
