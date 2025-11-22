@@ -20,7 +20,7 @@
 Primeiramente, clone este repositório do GitHub para o seu computador.
 
 ```bash
-git clone [https://github.com/JulioCesra/numeros-complexos-com-arduino-uno.git](https://github.com/JulioCesra/numeros-complexos-com-arduino-uno.git)
+git clone https://github.com/JulioCesra/numeros-complexos-com-arduino-uno.git
 ```
 Em seguida, baixe as bibliotecas Python necessárias:
 ```bash
@@ -37,11 +37,8 @@ python .\numeros-complexos-arduino.py
 | :---: | :---: |
 | **Fotos da Construção** | ![](Imagens/foto_1.jpeg) ![](Imagens/foto_2.jpeg) ![](Imagens/foto_3.jpeg) |
 | **Gráfico (Exemplo 1)** | ![](Imagens/demonstracao_1.jpeg) |
-
-
 | **Gráfico (Exemplo 2)** | ![](Imagens/demonstracao_2.jpeg) |
-
-| **Vídeo do Projeto** | ![Video 1](videos/v1.mp4) ![Video 2](videos/video_2.mp4) ![Video 3](videos/video_3.mp4) |
+| **Vídeos (Shorts)** | [![Visualização 1](https://img.youtube.com/vi/i5H1sBm3Jqw/0.jpg)](https://youtube.com/shorts/i5H1sBm3Jqw) [![Visualização 2](https://img.youtube.com/vi/6zMyY6G3cC8/0.jpg)](https://youtube.com/shorts/6zMyY6G3cC8) [![Visualização 3](https://img.youtube.com/vi/ja2jIWHob7I/0.jpg)](https://youtube.com/shorts/ja2jIWHob7I) |
 
 
 ## 🧑‍💻 Autor
