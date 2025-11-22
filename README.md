@@ -1,53 +1,49 @@
+# ⚛️ Visualizador de Números Complexos em Forma Polar (Arduino + Python)
 
-# Apresentação do projeto
+* Este projeto foi desenvolvido como parte complementar da terceira nota da disciplina de **Variáveis Complexas** no curso de Engenharia da Computação na Universidade Estadual do Maranhão (**UEMA**).
+* A proposta é **facilitar a visualização** de números complexos na forma polar. O projeto utiliza um **sensor ultrassônico HC-SR04** e LEDs vermelhos indicadores.
+* **Lógica de Intensidade:** A intensidade dos LEDs varia em função do ângulo ($\theta$): eles **aumentam a intensidade** à medida que o vetor tende ao **eixo imaginário** ($\theta = \frac{\pi}{2}$) e **diminuem** (tendendo a se apagar) à medida que o vetor se aproxima do **eixo real** ($\theta = 0$ ou $\theta = \pi$).
+* O hardware inclui um **Arduino Uno**. O software utiliza **Python** com as bibliotecas `pyserial` para comunicação serial e `matplotlib` para manipulação e criação gráfica interativa.
 
-* Este projeto foi criado como parte complementar da terceira nota da cadeira de variaveis complexas do curso de engenharia da computacao na universidade do maranhao - UEMA.
-* A proposta do projeto é facilitar a visualizacao de numeros complexos na forma polar utilizando sensor ultrassonico de distancia hc-sr04 com leds vermelhos indicadores que mudam a intensidade conforme a reta tende ao eixo dos numeros imaginarios e tendem a se apagar quando tendem ao eixo dos numeros reais.
-* Foi utilizado arduino uno e python com bibliotecas de conexão serial e manipulaçao e criacao grafica com matplotlib.
+---
 
+## 🛠️ Esquema e Construção
 
+| Esquema Eletrônico | Construção Física |
+| :---: | :---: |
+| ![Esquema do projeto](Imagens/esquema_arduino.png) | ![Construção do projeto](Imagens/construcao_projeto.png) |
 
+---
 
-## Esquema e construção 
+## 💻 Como Utilizar
 
-
-![Esquema do projeto](Imagens/esquema_arduino.png)
-![Construção do projeto](Imagens/construcao_projeto.png)
-## Como utilizar 
-
-Primeiramente clone este respositorio do github para seu computador.
-
-```bash
-git clone https://github.com/JulioCesra/numeros-complexos-com-arduino-uno.git
-```
-
-Depois disso baixe as bibliotecas necessarias abaixo
+Primeiramente, clone este repositório do GitHub para o seu computador.
 
 ```bash
-pip install matplotlib
-pip install pyserial
-pip install numpy
+git clone [https://github.com/JulioCesra/numeros-complexos-com-arduino-uno.git](https://github.com/JulioCesra/numeros-complexos-com-arduino-uno.git)
 ```
-
-No terminal de sua preferencia, execute o codigo abaixo
-
+Em seguida, baixe as bibliotecas Python necessárias:
+```bash
+pip install matplotlib pyserial numpy
+```
+No terminal de sua preferência (após configurar a porta serial correta no código Arduino/Python), execute o código principal:
 ```bash
 python .\numeros-complexos-arduino.py
 ```
 
+## 🎥 Demonstração
 
-## Demonstração 
+| Tipo de Mídia | Visualização |
+| :---: | :---: |
+| **Fotos da Construção** | ![](Imagens/foto_1.jpeg) ![](Imagens/foto_2.jpeg) ![](Imagens/foto_3.jpeg) |
+| **Gráfico (Exemplo 1)** | ![](Imagens/demonstracao_1.jpeg) |
 
-![](Imagens/foto_1.jpeg)
-![](Imagens/foto_2.jpeg)
-![](Imagens/foto_3.jpeg)
-![](Imagens/demonstracao_1.jpeg)
-![](Imagens/demonstracao_2.jpeg)
-![](videos/video_1.mp4)
-![](videos/video_2.mp4)
-![](videos/video_3.mp4)
 
-## Autor
+| **Gráfico (Exemplo 2)** | ![](Imagens/demonstracao_2.jpeg) |
+| **Vídeo do Projeto** | ![](**https://github.com/user-attachments/assets/f151a170-7052-40a4-a260-038ab77acf01**) ![](**https://github.com/user-attachments/assets/f048c220-2285-411d-987e-a0306de83663**) ![](**https://github.com/user-attachments/assets/53f9ad16-4159-451f-a896-90aa698a06e0**) |
+
+
+## 🧑‍💻 Autor
 
 - [@JulioCesra](https://www.github.com/JulioCesra)
 
