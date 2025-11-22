@@ -38,7 +38,7 @@ python .\numeros-complexos-arduino.py
 | **Fotos da Construção** | ![](Imagens/foto_1.jpeg) ![](Imagens/foto_2.jpeg) ![](Imagens/foto_3.jpeg) |
 | **Gráfico (Exemplo 1)** | ![](Imagens/demonstracao_1.jpeg) |
 | **Gráfico (Exemplo 2)** | ![](Imagens/demonstracao_2.jpeg) |
-| **Vídeos (Shorts)** | [![Visualização 1](https://img.youtube.com/vi/i5H1sBm3Jqw/0.jpg)](https://youtube.com/shorts/i5H1sBm3Jqw) [![Visualização 2](https://img.youtube.com/vi/6zMyY6G3cC8/0.jpg)](https://youtube.com/shorts/6zMyY6G3cC8) [![Visualização 3](https://img.youtube.com/vi/ja2jIWHob7I/0.jpg)](https://youtube.com/shorts/ja2jIWHob7I) |
+| **Vídeos (Shorts)** | [![Visualização 1](https://img.youtube.com/vi/i5H1sBm3Jqw/0.jpg)](https://youtube.com/shorts/i5H1sBm3Jqw) [![Visualização 2](https://img.youtube.com/vi/6zMyY6G3cC8/0.jpg)](https://youtube.com/shorts/6zMyY6G3cC8) |
 
 
 ## 🧑‍💻 Autor
