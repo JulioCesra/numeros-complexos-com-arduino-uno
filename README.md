@@ -41,7 +41,7 @@ python .\numeros-complexos-arduino.py
 
 | **Gráfico (Exemplo 2)** | ![](Imagens/demonstracao_2.jpeg) |
 
-| **Vídeo do Projeto** | ![Video 1](videos/video_1.mp4) ![Video 2](videos/video_2.mp4) ![Video 3](videos/video_3.mp4) |
+| **Vídeo do Projeto** | ![Video 1](videos/v1.mp4) ![Video 2](videos/video_2.mp4) ![Video 3](videos/video_3.mp4) |
 
 
 ## 🧑‍💻 Autor
